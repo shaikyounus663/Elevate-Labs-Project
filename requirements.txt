@@ -1,0 +1,2 @@
+echo -e "fastapi\nuvicorn" > requirements.txt
+
